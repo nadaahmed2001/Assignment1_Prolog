@@ -24,6 +24,15 @@ My solution for Assignment1 in AI using prolog
   ### Example:
     ?- maxStudentGrade(stud10, MaxGrade).
     MaxGrade = 97
+   
+## Task4:
+  Show a student's grade digits in a specific course as a list of words.
+
+  ### Example:
+    ?- gradeInWords(stud04, 'Database', DigitsWords).
+    DigitsWords = [five, nine]
+    
+
     
     
 ### To run the code:
