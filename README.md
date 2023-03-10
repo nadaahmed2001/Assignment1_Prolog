@@ -26,10 +26,10 @@ My solution for Assignment1 in AI using prolog
     MaxGrade = 97
     
     
-###To run the code:
-  -Open SWI-Prolog 
-  -Consult the file TasksSolution.pl
-  -write any of the commands :heavy_check_mark:
+### To run the code:
+  - Open SWI-Prolog 
+  - Consult the file TasksSolution.pl
+  - write any of the commands :heavy_check_mark:
 
 
 
